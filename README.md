@@ -1,7 +1,7 @@
 
 
 # Titanik_work
-https://youtu.be/0ehGMKbbfl0 видео презентация
+https://youtu.be/tjOJ-SEvmGA видео презентация
 Использовал 
 Jupyter Notebook 
 Язык: python
